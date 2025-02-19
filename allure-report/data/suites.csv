@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30671","@Add new Pay Grade","webkit","Sat Dec 14 16:25:05 EET 2024","passed","Sat Dec 14 16:25:36 EET 2024","","PregatireExamen\AddNewPayGrade.spec.js","",""
+"","33002","@Add new Pay Grade","firefox","Sat Dec 14 16:24:30 EET 2024","broken","Sat Dec 14 16:25:03 EET 2024","","PregatireExamen\AddNewPayGrade.spec.js","",""
+"","33839","@Add new Pay Grade","chromium","Sat Dec 14 16:24:30 EET 2024","broken","Sat Dec 14 16:25:04 EET 2024","","PregatireExamen\AddNewPayGrade.spec.js","",""
